@@ -11,7 +11,6 @@ Aspiring Cybersecurity Analyst with a strong interest in both offensive (VAPT) a
 
 ## 🛠 Skills
 - Web Application Security Testing
-- OWASP Top 10 Vulnerabilities
 - Network Analysis using Wireshark
 - Log Analysis & Basic SIEM Concepts
 - Linux & Networking Fundamentals
@@ -20,15 +19,12 @@ Aspiring Cybersecurity Analyst with a strong interest in both offensive (VAPT) a
 - Burp Suite
 - Nmap
 - Wireshark
-- Metasploit (Basic)
+- OWASP ZAP
 - Splunk (Learning)
 
 ## 📂 Projects
-- OWASP Top 10 Vulnerability Lab
-- Web Application Testing using Burp Suite
-- Network Scanning & Enumeration (Nmap)
-- Traffic Analysis using Wireshark
-- Professional VAPT Reports
+-Web-Application-Security-Testing
+-SOC Detection & Response Lab
 
 ## 🎯 Goal
 To secure a role as a Cybersecurity Analyst where I can apply both offensive and defensive security skills to protect systems and data.
